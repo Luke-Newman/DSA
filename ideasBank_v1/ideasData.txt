@@ -1,0 +1,65 @@
+#id# 1
+#proposer# 	Dongmo Zhang
+#keywords#  smartphone technology
+#content#	
+Combine samsung s-pen with earphone and microphone.
+#end#
+
+#id# 2
+#proposer# 	ideaaday.org
+#keywords#  publication weather
+#content#	
+Publish the average daily global temperature.
+#end#
+
+#id# 3
+#proposer# 	oneideaaday.tumblr.com
+#keywords#  subway business
+#content#	
+Redesign each iconic subway maps of the major cities by replacing stations with the Subways restaurants nearby.
+#end#
+
+#id# 4
+#proposer# 	ideaaday.org
+#keywords#  TV program education 
+#content#	
+Launch an educational early evening kids TV show called A+ which recaps what the 
+kids will have learned at school that day.
+#end#
+
+#id# 5
+#proposer# 	ideastormz.com
+#keywords#  dating marriage
+#content#	
+When you're talking marriage you want your proposal to be exciting and fun. Personalize it as much as possible and 
+tailor it to what your bride-to-be loves to do. If she enjoys the outdoors you could go on an all-day hiking excursion and 
+then propose at the top of the mountain. A boat ride is another option. You could work with the score board operators and 
+propose at a baseball or basketball game but make sure you'll get a positive response or you could have some serious egg on 
+your face! Yes, it has been known to happen.
+#end#
+
+#id# 6
+#proposer# ideastorm.com
+#keywords# computer laptop technology
+#content#	
+Have you ever tried to record a video with a laptop or a front facing camera (all in one desktop) of a subject other than yourself. It is not easy, so it would be very productive to have a rear built in camera so that the user could just sit at the desktop monitor as normal and record the subject that is in front. It would be nice if the camera could change directions as well. 
+#end#
+
+#id# 7
+#proposer# 	ideastormz.com
+#keywords#  education school university
+#content#	
+Universities and colleges should make students who apply to the school submit a business plan for their chosen career. 
+Have them research job prospects for that field and include that as part of the report. This could steer students to better 
+paths before it's too late and avoid painful surprises after they graduate.
+#end#
+
+#id# 8
+#proposer# 	ideastormz.com
+#keywords#  smartphone technology
+#content#	This new phone feature would come in handy when a caller's voice doesn't give you a clue about their identity 
+but who still seem to know you. It would let you record a snippet of conversation and then attach a name to that snippet 
+after the conversation is over. That way the next time they call you could hit an ID key so your phone could match the voice 
+with the recordings and display the caller's name (or whisper it into your ear through the earpiece if you went for the more 
+hi-tech version).
+#end#
